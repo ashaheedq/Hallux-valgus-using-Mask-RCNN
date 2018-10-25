@@ -1,4 +1,5 @@
 # Hallux-valgus-using-Mask-RCNN
+implementation of instance segmentation of anteroposterior foot X-ray images using Mask-RCNN
 
 Youtube tutorial on how to install tensorflow and Mask-RCNN by Mark Jay [YouTube videos](https://www.youtube.com/watch?v=2TikTv6PWDw&list=PLX-LrBk6h3wRAF22jBUxDgOvyhIgLN4Cg).
 
